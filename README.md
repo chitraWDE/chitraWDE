@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chitraWDE
-- 👀 I’m interested in problem solving of DSA
+- 👀 I’m interested in Data Driven Technology
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ,through mail on chitradey.bhatsala@gamil.com
